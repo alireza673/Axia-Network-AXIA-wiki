@@ -63,7 +63,7 @@
     "@axia-js/util": "0.1.0",
     "@axia-js/wasm-crypto": "0.1.2",
     "@docusaurus/theme-live-codeblock": "^2.0.0-beta.15",
-    "ansi-html": "^0.0.7",
+    "ansi-html": "^0.0.9",
     "immer": "^9.0.6",
     "remark-docusaurus-tabs": "^0.1.0",
     "replace-in-file": "^6.2.0"
